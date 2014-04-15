@@ -1,4 +1,4 @@
-# One Month Rails [![Live Demo](https://usekite.com/live-demo-button.png)](https://localhost/deploy)
+# One Month Rails
 
 This is the sample application for
 [*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
